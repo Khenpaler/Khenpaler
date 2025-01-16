@@ -1,5 +1,4 @@
 ![Header](./github-header-image.png)
-<h1 align="center">Hi 👋, I'm Khen Harold Paler</h1>
 <h3 align="center">A passionate 4th-year BS in Information Technology student from Philippines</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/zNZjeqK_FxwAAAAC/code-works-code-not-working.gif">
 
