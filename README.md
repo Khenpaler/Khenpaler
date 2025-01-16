@@ -3,13 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khenpaler&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
-- 🔭 I’m currently working on **nextjs**
+👨‍💻 About Me:
 
-- 🌱 I’m currently learning **nextjs, typscript, tailwind**
-
-- 📫 How to reach me **palerkhen40@gmail.com**
-
-- ⚡ Fun fact **tiktokreels**
+- 🔭 I’m currently working on Next.js projects
+  
+- 🌱 I’m currently learning Next.js, TypeScript, and Tailwind CSS
+  
+- 📫 Reach me at palerkhen40@gmail.com
+  
+- ⚡ Fun fact: I enjoy creating TikTok reels
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
