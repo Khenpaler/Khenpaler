@@ -1,8 +1,5 @@
 ![Header](./github-header-image.png)
-<h3 align="center">A passionate 4th-year BS in Information Technology student from Philippines</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/zNZjeqK_FxwAAAAC/code-works-code-not-working.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khenpaler&label=Profile%20views&color=0e75b6&style=flat" alt="khenpaler" /> </p>
+<h3 align="center">🌟 A passionate 4th-year BS in Information Technology student from the Philippines 🌟</h3> <img align="right" alt="Coding" width="400" src="https://media.tenor.com/zNZjeqK_FxwAAAAC/code-works-code-not-working.gif" /> <p align="left"> <img src="https://komarev.com/ghpvc/?username=khenpaler&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
 - 🔭 I’m currently working on **nextjs**
 
@@ -24,5 +21,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khenpaler&show_icons=true&locale=en&layout=compact" alt="khenpaler" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khenpaler&show_icons=true&locale=en" alt="khenpaler" /></p>
-
-
