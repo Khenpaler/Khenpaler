@@ -6,9 +6,9 @@
 
 👨‍💻 About Me:
 
-- 🔭 I’m currently working on Next.js projects
+- 🔭 I’m currently working on Vue.js projects
   
-- 🌱 I’m currently learning Next.js, TypeScript, and Tailwind CSS
+- 🌱 I’m currently learning Vue.js, TypeScript, and Tailwind CSS
   
 - 📫 Reach me at palerkhen40@gmail.com
   
